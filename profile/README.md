@@ -4,7 +4,7 @@ I'm currently making Scratch, Godot, and Python projects.
 
 **Main Links**
 
-[My website: Sullybase](https://sullybase.github.io/)    --    [My Scratch](https://scratch.mit.edu/users/sullydux/)    --    [My Patreon](https://patreon.com/Sullydux?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+[My website: Sullybase](https://sullybase.github.io/)    --    [My Scratch](https://scratch.mit.edu/users/sullydux/)    --    [My Patreon](https://patreon.com/Sullydux?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)   --    [Offical Sullybase Reddit Comunity](https://www.reddit.com/r/Sullybase/)
 
 --- 
 
