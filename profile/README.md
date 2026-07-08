@@ -16,4 +16,4 @@ I'm currently making Scratch, Godot, and Python projects.
 
 **Warning**
 
-This org, Sullybase, does not pay for code signing, so all apps are unsigned.
+This org, Sullybase, does not pay for code signing, so all apps are unsigned. Go to the repository tab and check for repos like "curse-app-code", and they will have the app code as proof of safety.
