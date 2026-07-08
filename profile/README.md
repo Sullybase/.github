@@ -10,7 +10,7 @@ I'm currently making Scratch, Godot, and Python projects.
 
 **Project Links**
 
-[the Coin Knight(in active dev)](https://sullybase.github.io/Coin/)   --   [Forsaken Legends: Cursed Isle](https://sullybase.github.io/Curse/)   --   [Secret Warfare](https://sullybase.github.io/Secret/)   --   [Puzzles](https://sullybase.github.io/Puzzle/)
+[The Coin Knight (in active dev)](https://sullybase.github.io/Coin/)   --   [Forsaken Legends: Cursed Isle](https://sullybase.github.io/Curse/)   --   [Secret Warfare](https://sullybase.github.io/Secret/)   --   [Puzzles](https://sullybase.github.io/Puzzle/)
 
 ---
 
