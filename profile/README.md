@@ -17,3 +17,5 @@ I'm currently making Scratch, Godot, and Python projects.
 **Warning**
 
 This org, Sullybase, does not pay for code signing, so all apps are unsigned. Go to the repository tab and check for repos like "curse-app-code", and they will have the app code as proof of safety.
+
+AI is used in the creation of websites. I am just not experienced enough at HTML and CSS, so AI helps me but never replaces my thoughts. The games, images, and sound assets do not have AI used in the process.
